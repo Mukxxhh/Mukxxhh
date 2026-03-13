@@ -1,7 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mukesh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%" />
-
+ 
+# Hi, I'm Mukesh 👋
+### Software Developer · AI & Automation Builder · Open to Opportunities
+ 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+Java+%7C+AI%2FML+Developer;Building+Intelligent+Automation+Tools;Open+to+Entry-Level+Roles+%F0%9F%9A%80)
+ 
 </div>
 
 ---
