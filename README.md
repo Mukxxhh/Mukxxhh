@@ -122,72 +122,121 @@ I'm a **fresher software developer** from Hyderabad, passionate about building i
  
 ---
 ## 🧰 Tech Stack
- 
+
+<div align="center">
+
 ### 👨‍💻 Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=5)](https://skillicons.dev)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
+
 ---
- 
+
 ### 🤖 AI / Machine Learning
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=5)](https://skillicons.dev)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
- 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ---
- 
+
 ### 👁️ Computer Vision
+
+[![My Skills](https://skillicons.dev/icons?i=opencv&theme=dark&perline=5)](https://skillicons.dev)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-5CAD41?style=for-the-badge&logoColor=white)
- 
+![CVZone](https://img.shields.io/badge/CVZone-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logo=yolo&logoColor=white)
+
 ---
- 
+
 ### 🧠 Generative AI & LLMs
-![LLM](https://img.shields.io/badge/LLM-Groq_API-F55036?style=for-the-badge&logoColor=white)
-![Google TTS](https://img.shields.io/badge/Google_TTS-gTTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![Google TTS](https://img.shields.io/badge/gTTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Multi--Agent-6A0DAD?style=for-the-badge&logoColor=white)
- 
+![GAN](https://img.shields.io/badge/GAN-Generative_AI-FF6F00?style=for-the-badge&logoColor=white)
+![Llama](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
 ---
- 
+
 ### 📊 Data Science & Visualization
+
+[![My Skills](https://skillicons.dev/icons?i=numpy&theme=dark&perline=5)](https://skillicons.dev)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
- 
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-003366?style=for-the-badge&logo=python&logoColor=white)
+
 ---
- 
+
 ### 🔐 Cybersecurity
+
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-005C99?style=for-the-badge&logo=cisco&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-CC0000?style=for-the-badge&logoColor=white)
- 
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-AI_Powered-6A0DAD?style=for-the-badge&logoColor=white)
+
 ---
- 
+
 ### 🛠️ Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,matlab,vscode,jupyter,wordpress,postman,linux&theme=dark&perline=8)](https://skillicons.dev)
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
- 
+
 ---
- 
+
 ### 🎨 Design Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=5)](https://skillicons.dev)
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### 🔬 Full Stack at a Glance
+
+| Domain | Technologies |
+|--------|-------------|
+| **Programming** | Python · Java · JavaScript · HTML · CSS |
+| **Deep Learning** | TensorFlow · PyTorch · Keras · Scikit-Learn · YOLOv8 |
+| **Computer Vision** | OpenCV · Pillow · GDAL · CVZone · Ultralytics |
+| **Generative AI** | GANs · U-Net · PatchGAN · LLMs · Groq API · gTTS · LangChain |
+| **Data Science** | NumPy · Pandas · Matplotlib · Plotly · Streamlit · ReportLab |
+| **Cybersecurity** | Ethical Hacking · Network Security · Anomaly Detection |
+| **Tools** | MATLAB · Git · GitHub · Jupyter · VS Code · Linux |
+| **Design** | Figma · Canva · WordPress |
+
+</div>
  
 ---
 
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Mukxxhh&label=Profile+Views&color=6AD3F7&style=for-the-badge)
 
 <div align="center">
 
