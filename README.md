@@ -197,17 +197,6 @@ I'm a **fresher software developer** from Hyderabad, passionate about building i
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukxxhh&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="60%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mukxxhh&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
